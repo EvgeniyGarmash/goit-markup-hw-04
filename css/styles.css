@@ -291,7 +291,7 @@ img{
     position: relative;
     overflow: hidden;
 }
-.conteiner-for-overlay:hover .overlay{
+.portfolio-item:hover .overlay{
     transform: translateY(0%);
 }
 .overlay{
